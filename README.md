@@ -59,7 +59,9 @@ STEP 8: Set up the Behavior Tree:
 3)Drag and drop a "Blackboard Key Selector" node onto the graph.
 4)Configure the Blackboard Key Selector node to use the "PlayerLocation" key
 ~~~
+~~~
 OUTPUT:
+
 ![X1](https://github.com/Sharmilasha/GAME_PROGRAMMING_EXP7/assets/94506182/cd66ac59-cb04-44cb-8a78-48824c93ead3)
 ![X2](https://github.com/Sharmilasha/GAME_PROGRAMMING_EXP7/assets/94506182/10fdf0f8-3df2-4575-8d24-39b1abee3e0d)
 ![X3](https://github.com/Sharmilasha/GAME_PROGRAMMING_EXP7/assets/94506182/9499a11e-782d-47e6-989e-ebea33ea388e)
